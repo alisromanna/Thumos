@@ -3,6 +3,6 @@ This is my Technical Skills Review. The task is in this [folder](https://drive.g
 
 My completed task is [here](https://github.com/alisromanna/Thumos/blob/main/Aleshina_Thumos.ipynb).
 
-My archetype is mostly Planner. For more details, please check this [file](https://github.com/alisromanna/Thumos/blob/main/Aleshina%20%7C%20PrinciplesYou.pdf).
+My archetype is mostly Planner. For more details, please check this [file](https://github.com/alisromanna/Thumos/blob/main/Aleshina_PrinciplesYou.pdf). Please, note that the .pdf file **cannot** be opened directly on the github platform. To view it, you can `download` the file and open it on your device. 
 
 ![arch](https://github.com/alisromanna/Thumos/blob/main/Aleshina_archetype.png).
