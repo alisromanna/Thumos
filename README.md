@@ -5,4 +5,5 @@ My completed task is [here](https://github.com/alisromanna/Thumos/blob/main/Ales
 
 My archetype is mostly Planner. For more details, please check this [file](https://github.com/alisromanna/Thumos/blob/main/Aleshina_PrinciplesYou.pdf). Please, note that the .pdf file **cannot** be opened directly on the github platform. To view it, you can `download` the file (button at the top right) and open it on your device. 
 
-![arch](https://github.com/alisromanna/Thumos/blob/main/Aleshina_archetype.png).
+![image](https://github.com/alisromanna/Thumos/assets/120556506/ae9c6db5-12fd-4596-a59a-39f49a2b194c)
+
